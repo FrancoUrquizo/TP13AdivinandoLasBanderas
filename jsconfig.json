@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false,
+    "jsx": "react-jsx",
+    "noEmit": true,
+    "moduleResolution": "bundler",
+    "module": "esnext",
+    "target": "es2022",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/**/*.js", "App.js", "index.js"]
+}
